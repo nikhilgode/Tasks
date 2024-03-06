@@ -1,0 +1,32 @@
+use [practice]
+
+create function CurrentAge(@dob date)
+returns int
+as
+begin
+       declare @age int
+	   set @age= DATEDIFF( YEAR ,@dob ,GETDATE())-
+	             case
+				     when (month(@dob)> MONTH( GETDATE())) 
+					 or
+					      (MONTH(@dob)= MONTH( GETDATE()) and  day(@dob) >DAY( GETDATE()) )
+					then 1
+					else 0
+				end
+return @age
+end
+
+
+select [dbo].[CurrentAge2] ('09/26/1998')
+
+
+
+create function InlineTable(@age int)
+returns table
+as
+return( select first_name,last_name from [dbo].[Customers]
+         where age> @age 
+	  )
+
+
+select * from [dbo].[InlineTable] (29)
