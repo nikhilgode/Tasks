@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\bin\Debug\net8.0\NoteApp.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\bin\Debug\net8.0\NoteApp.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\bin\Debug\net8.0\NoteApp.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\bin\Debug\net8.0\NoteApp.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\bin\Debug\net8.0\NoteApp.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\obj\Debug\net8.0\NoteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\obj\Debug\net8.0\NoteApp.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\obj\Debug\net8.0\NoteApp.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\obj\Debug\net8.0\NoteApp.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\obj\Debug\net8.0\NoteApp.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\obj\Debug\net8.0\NoteApp.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\obj\Debug\net8.0\refint\NoteApp.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\obj\Debug\net8.0\NoteApp.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\obj\Debug\net8.0\NoteApp.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\NoteApp\obj\Debug\net8.0\ref\NoteApp.dll

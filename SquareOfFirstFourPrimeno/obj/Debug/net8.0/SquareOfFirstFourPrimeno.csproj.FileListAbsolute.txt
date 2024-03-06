@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\obj\Debug\net8.0\SquareOfFirstFourPrimeno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\obj\Debug\net8.0\SquareOfFirstFourPrimeno.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\obj\Debug\net8.0\SquareOfFirstFourPrimeno.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\obj\Debug\net8.0\SquareOfFirstFourPrimeno.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\obj\Debug\net8.0\SquareOfFirstFourPrimeno.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\bin\Debug\net8.0\SquareOfFirstFourPrimeno.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\bin\Debug\net8.0\SquareOfFirstFourPrimeno.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\bin\Debug\net8.0\SquareOfFirstFourPrimeno.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\bin\Debug\net8.0\SquareOfFirstFourPrimeno.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\bin\Debug\net8.0\SquareOfFirstFourPrimeno.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\obj\Debug\net8.0\SquareOfFirstFourPrimeno.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\obj\Debug\net8.0\refint\SquareOfFirstFourPrimeno.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\obj\Debug\net8.0\SquareOfFirstFourPrimeno.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\obj\Debug\net8.0\SquareOfFirstFourPrimeno.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SquareOfFirstFourPrimeno\obj\Debug\net8.0\ref\SquareOfFirstFourPrimeno.dll

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65E1DBA9-F3FB-40E8-97EA-D216C56D7F14}|CodefirstWithExistingDatabse.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\codefirstwithexistingdatabse\\migrations\\202402050736070_initialmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E1DBA9-F3FB-40E8-97EA-D216C56D7F14}|CodefirstWithExistingDatabse.csproj|solutionrelative:migrations\\202402050736070_initialmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E1DBA9-F3FB-40E8-97EA-D216C56D7F14}|CodefirstWithExistingDatabse.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E1DBA9-F3FB-40E8-97EA-D216C56D7F14}|CodefirstWithExistingDatabse.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E1DBA9-F3FB-40E8-97EA-D216C56D7F14}|CodefirstWithExistingDatabse.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E1DBA9-F3FB-40E8-97EA-D216C56D7F14}|CodefirstWithExistingDatabse.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E1DBA9-F3FB-40E8-97EA-D216C56D7F14}|CodefirstWithExistingDatabse.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\plutocodefirstexistingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E1DBA9-F3FB-40E8-97EA-D216C56D7F14}|CodefirstWithExistingDatabse.csproj|solutionrelative:plutocodefirstexistingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E1DBA9-F3FB-40E8-97EA-D216C56D7F14}|CodefirstWithExistingDatabse.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E1DBA9-F3FB-40E8-97EA-D216C56D7F14}|CodefirstWithExistingDatabse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202402050736070_InitialModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\Migrations\\202402050736070_InitialModel.cs",
+              "RelativeDocumentMoniker": "Migrations\\202402050736070_InitialModel.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\Migrations\\202402050736070_InitialModel.cs",
+              "RelativeToolTip": "Migrations\\202402050736070_InitialModel.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAA+wEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T07:36:12.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T07:04:26.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T06:42:55.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlutoCodeFirstExistingDB.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\PlutoCodeFirstExistingDB.cs",
+              "RelativeDocumentMoniker": "PlutoCodeFirstExistingDB.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\PlutoCodeFirstExistingDB.cs",
+              "RelativeToolTip": "PlutoCodeFirstExistingDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T06:40:35.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CodefirstWithExistingDatabse\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T06:17:38.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

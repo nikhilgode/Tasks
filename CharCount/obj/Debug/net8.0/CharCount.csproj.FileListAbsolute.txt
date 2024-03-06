@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\bin\Debug\net8.0\CharCount.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\bin\Debug\net8.0\CharCount.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\bin\Debug\net8.0\CharCount.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\bin\Debug\net8.0\CharCount.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\bin\Debug\net8.0\CharCount.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\obj\Debug\net8.0\CharCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\obj\Debug\net8.0\CharCount.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\obj\Debug\net8.0\CharCount.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\obj\Debug\net8.0\CharCount.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\obj\Debug\net8.0\CharCount.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\obj\Debug\net8.0\CharCount.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\obj\Debug\net8.0\refint\CharCount.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\obj\Debug\net8.0\CharCount.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\obj\Debug\net8.0\CharCount.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CharCount\obj\Debug\net8.0\ref\CharCount.dll

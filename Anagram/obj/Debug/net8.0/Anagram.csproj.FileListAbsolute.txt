@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\bin\Debug\net8.0\Anagram.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\bin\Debug\net8.0\Anagram.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\bin\Debug\net8.0\Anagram.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\bin\Debug\net8.0\Anagram.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\bin\Debug\net8.0\Anagram.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\obj\Debug\net8.0\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\obj\Debug\net8.0\Anagram.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\obj\Debug\net8.0\Anagram.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\obj\Debug\net8.0\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\obj\Debug\net8.0\Anagram.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\obj\Debug\net8.0\Anagram.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\obj\Debug\net8.0\refint\Anagram.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\obj\Debug\net8.0\Anagram.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\obj\Debug\net8.0\Anagram.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Anagram\obj\Debug\net8.0\ref\Anagram.dll

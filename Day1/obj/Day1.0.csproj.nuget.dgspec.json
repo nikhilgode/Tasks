@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\Day1.0\\Day1.0.csproj": {}
+    "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\Day1\\Day1.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\Day1.0\\Day1.0.csproj": {
+    "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\Day1\\Day1.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\Day1.0\\Day1.0.csproj",
+        "projectUniqueName": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\Day1\\Day1.0.csproj",
         "projectName": "Day1.0",
-        "projectPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\Day1.0\\Day1.0.csproj",
+        "projectPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\Day1\\Day1.0.csproj",
         "packagesPath": "C:\\Users\\Nimap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\Day1.0\\obj\\",
+        "outputPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\Day1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

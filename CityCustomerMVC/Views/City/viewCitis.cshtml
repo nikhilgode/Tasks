@@ -1,0 +1,33 @@
+﻿@model List<CityCustomerMVC.Models.City>
+@{
+    ViewBag.Title = "viewCitis";
+}
+
+
+<div>
+    <table>
+
+        <tr>
+            <td colspan="2">THE REGESTERED CITIES ARE</td>
+        </tr>
+        @foreach (var city in Model)
+        {
+            <tr>
+                <td> @city.Id </td>
+                <td> @city.Name </td>
+            </tr>
+        }
+
+
+
+
+
+
+    </table>
+</div>
+
+@using (Html.BeginForm("NewCityForm", "City", FormMethod.Get))
+{
+    <button type="submit" class="btn btn-lg btn-primary">ADD NEW CITY</button>
+}
+

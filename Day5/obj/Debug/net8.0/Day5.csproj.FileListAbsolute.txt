@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\bin\Debug\net8.0\Day5.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\bin\Debug\net8.0\Day5.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\bin\Debug\net8.0\Day5.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\bin\Debug\net8.0\Day5.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\bin\Debug\net8.0\Day5.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\obj\Debug\net8.0\Day5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\obj\Debug\net8.0\Day5.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\obj\Debug\net8.0\Day5.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\obj\Debug\net8.0\Day5.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\obj\Debug\net8.0\Day5.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\obj\Debug\net8.0\Day5.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\obj\Debug\net8.0\refint\Day5.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\obj\Debug\net8.0\Day5.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\obj\Debug\net8.0\Day5.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Day5\obj\Debug\net8.0\ref\Day5.dll

@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\bin\Debug\net8.0\PlusPatern.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\bin\Debug\net8.0\PlusPatern.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\bin\Debug\net8.0\PlusPatern.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\bin\Debug\net8.0\PlusPatern.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\bin\Debug\net8.0\PlusPatern.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\obj\Debug\net8.0\PlusPatern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\obj\Debug\net8.0\PlusPatern.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\obj\Debug\net8.0\PlusPatern.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\obj\Debug\net8.0\PlusPatern.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\obj\Debug\net8.0\PlusPatern.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\obj\Debug\net8.0\PlusPatern.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\obj\Debug\net8.0\refint\PlusPatern.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\obj\Debug\net8.0\PlusPatern.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\obj\Debug\net8.0\PlusPatern.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PlusPatern\obj\Debug\net8.0\ref\PlusPatern.dll

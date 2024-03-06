@@ -1,0 +1,12 @@
+﻿
+Home->Index   ->  onactionexecuting 	-01-03-2024 11.52.02 AM
+Home->Index   ->  OnActionExecuted 	-01-03-2024 11.52.02 AM
+Home->Index   ->  OnResultExecuting 	-01-03-2024 11.52.02 AM
+Home->Index   ->  OnResultExecuted 	-01-03-2024 11.52.02 AM
+
+Home->Index   ->  onactionexecuting 	-01-03-2024 11.53.25 AM
+Home->Index   ->  OnActionExecuted 	-01-03-2024 11.53.25 AM
+Home->Index   ->  OnResultExecuting 	-01-03-2024 11.53.25 AM
+Home->Index   ->  OnResultExecuted 	-01-03-2024 11.53.25 AM
+
+Home->Welcome   ->  onactionexecuting 	-01-03-2024 11.54.12 AM

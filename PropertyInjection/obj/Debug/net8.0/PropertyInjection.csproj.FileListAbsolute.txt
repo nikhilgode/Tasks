@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\bin\Debug\net8.0\PropertyInjection.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\bin\Debug\net8.0\PropertyInjection.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\bin\Debug\net8.0\PropertyInjection.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\bin\Debug\net8.0\PropertyInjection.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\bin\Debug\net8.0\PropertyInjection.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\obj\Debug\net8.0\PropertyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\obj\Debug\net8.0\PropertyInjection.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\obj\Debug\net8.0\PropertyInjection.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\obj\Debug\net8.0\PropertyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\obj\Debug\net8.0\PropertyInjection.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\obj\Debug\net8.0\PropertyInjection.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\obj\Debug\net8.0\refint\PropertyInjection.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\obj\Debug\net8.0\PropertyInjection.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\obj\Debug\net8.0\PropertyInjection.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\PropertyInjection\obj\Debug\net8.0\ref\PropertyInjection.dll

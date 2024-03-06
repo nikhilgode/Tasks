@@ -1,0 +1,38 @@
+﻿@model CityCustomerMVC.ViewModels.CustomerCity
+@{
+    ViewBag.Title = "EditCustomer";
+}
+
+<h2></h2>
+
+
+  @using (Html.BeginForm("SaveEditedCustomer", "Customer"))
+  {
+
+    <div class="form-group">
+        
+        @Html.LabelFor(m => m.customer.Name)
+
+        @Html.TextBoxFor(m => m.customer.Name)
+
+    </div>
+
+    <div class="form-group">
+
+        @Html.LabelFor(m => m.customer.city.Id)
+
+        <h1>@Model.customer.Id </h1>
+
+        @Html.DropDownListFor(m => m.customer.city.Id, new SelectList(Model.cities, "Id", "Name"), "Select City", new { @class = "form-control" })
+
+
+         @Html.ActionLink("REGESTER CUSTOMER", "SaveEditedCustomer", "Customer", new { id =@Model.customer.Id , id2 = @Model.customer.city.Id,name = @Model.customer.Name }, null)
+
+
+    </div>
+
+    <button type="submit" class="btn btn-lg btn-primary">REGESTER CUSTOMER</button>
+
+  }
+
+

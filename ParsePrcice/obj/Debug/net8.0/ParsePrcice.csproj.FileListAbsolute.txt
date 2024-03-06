@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\bin\Debug\net8.0\ParsePrcice.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\bin\Debug\net8.0\ParsePrcice.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\bin\Debug\net8.0\ParsePrcice.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\bin\Debug\net8.0\ParsePrcice.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\bin\Debug\net8.0\ParsePrcice.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\obj\Debug\net8.0\ParsePrcice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\obj\Debug\net8.0\ParsePrcice.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\obj\Debug\net8.0\ParsePrcice.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\obj\Debug\net8.0\ParsePrcice.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\obj\Debug\net8.0\ParsePrcice.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\obj\Debug\net8.0\ParsePrcice.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\obj\Debug\net8.0\refint\ParsePrcice.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\obj\Debug\net8.0\ParsePrcice.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\obj\Debug\net8.0\ParsePrcice.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ParsePrcice\obj\Debug\net8.0\ref\ParsePrcice.dll

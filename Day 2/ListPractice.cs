@@ -9,7 +9,7 @@ namespace Day_2
     public class ListPractice
     {
         List <int> list1 = new List<int>();
-
+     
 
         public void printlist()
         {

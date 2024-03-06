@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\bin\Debug\net8.0\ConstructorInjection.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\bin\Debug\net8.0\ConstructorInjection.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\bin\Debug\net8.0\ConstructorInjection.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\bin\Debug\net8.0\ConstructorInjection.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\bin\Debug\net8.0\ConstructorInjection.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\obj\Debug\net8.0\ConstructorInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\obj\Debug\net8.0\ConstructorInjection.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\obj\Debug\net8.0\ConstructorInjection.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\obj\Debug\net8.0\ConstructorInjection.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\obj\Debug\net8.0\ConstructorInjection.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\obj\Debug\net8.0\ConstructorInjection.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\obj\Debug\net8.0\refint\ConstructorInjection.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\obj\Debug\net8.0\ConstructorInjection.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\obj\Debug\net8.0\ConstructorInjection.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ConstructorInjection\obj\Debug\net8.0\ref\ConstructorInjection.dll

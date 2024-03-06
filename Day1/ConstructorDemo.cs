@@ -14,7 +14,7 @@ namespace Day1._0
         public string c;
 
 
-        public ConstructorDemo() { }
+        public ConstructorDemo( ) { }
         public ConstructorDemo(int a) { this.a = a; }
 
         public ConstructorDemo(int a, int b)

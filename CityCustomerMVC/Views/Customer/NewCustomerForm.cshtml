@@ -1,0 +1,98 @@
+﻿@model CityCustomerMVC.ViewModels.CustomerCity
+@{
+    ViewBag.Title = "NewCstomerForm";
+}
+
+<h2>NWE CUSTOMER REGESTRATION</h2>
+
+
+
+
+
+@using (Html.BeginForm("Create", "Customer", FormMethod.Post, new { id = "customerForm" }))
+{
+<table id="registerustomr">
+    <div class="form-group">
+
+        @Html.LabelFor(m => m.customer.Name)
+        @Html.TextBoxFor(m => m.customer.Name, new { id = "customerNameInput" })
+        @Html.ValidationMessageFor(m => m.customer.Name, "", new { @class = "text-danger" })
+
+
+
+
+
+    </div>
+    <div class="form-group">
+
+        @Html.LabelFor(m => m.customer.city.Id)
+         @Html.DropDownListFor(m => m.customer.city.Id, new SelectList(Model.cities, "Id", "Name"), "Select City", new { @class = "form-control" })
+
+
+
+
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.customer.DateTime)
+        @Html.TextBoxFor(m => m.customer.DateTime, "{0:yyyy-MM-ddTHH:mm}", new { type = "datetime-local", @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.customer.DateTime)
+    </div>
+
+
+
+
+
+
+    <button type="submit" class="btn btn-lg btn-primary" onclick="return validatefore()">REGESTER CUSTOMER</button>
+</table>
+}
+
+
+@section scripts
+{
+    <script type="text/javascript" language="javascript">
+
+
+
+        function validateAndSubmit() {
+            if (validatefore()) {
+                document.getElementById("customerForm").submit(); // Submit the form if validation succeeds
+            }
+        }
+
+
+
+
+
+
+        //function validatefore() {
+        //    let ret = true;
+            //if (document.getelementbyid("customerNameInput").value == "")
+            //{
+            //    document.getElementsByClassName("text-danger").innerText = "NAME OF CUSTOMR IS REQUIRED";
+            //    ret = false;
+            //}
+
+
+
+        function validatefore() {
+            let ret = true;
+            if (document.getElementById("customerNameInput").value == "") { // Corrected capitalization and added curly braces
+                document.querySelector(".text-danger").innerText = "NAME OF CUSTOMER IS REQUIRED";
+                ret = false;
+            } else {
+                document.querySelector(".text-danger").innerText = ""; // Clear error message if validation succeeds
+            }
+            return ret;
+        }
+
+
+    </script>
+
+}
+
+
+
+
+

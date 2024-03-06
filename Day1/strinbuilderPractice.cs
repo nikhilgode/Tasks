@@ -19,6 +19,8 @@ namespace Day1._0
             sb1.AppendLine();
             sb1.Append('*',10);
 
+            
+
 
             Console.WriteLine(sb1);
 

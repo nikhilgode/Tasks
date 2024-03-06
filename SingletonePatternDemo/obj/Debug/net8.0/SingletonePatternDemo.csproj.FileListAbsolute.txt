@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\bin\Debug\net8.0\SingletonePatternDemo.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\bin\Debug\net8.0\SingletonePatternDemo.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\bin\Debug\net8.0\SingletonePatternDemo.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\bin\Debug\net8.0\SingletonePatternDemo.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\bin\Debug\net8.0\SingletonePatternDemo.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\obj\Debug\net8.0\SingletonePatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\obj\Debug\net8.0\SingletonePatternDemo.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\obj\Debug\net8.0\SingletonePatternDemo.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\obj\Debug\net8.0\SingletonePatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\obj\Debug\net8.0\SingletonePatternDemo.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\obj\Debug\net8.0\SingletonePatternDemo.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\obj\Debug\net8.0\refint\SingletonePatternDemo.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\obj\Debug\net8.0\SingletonePatternDemo.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\obj\Debug\net8.0\SingletonePatternDemo.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\SingletonePatternDemo\obj\Debug\net8.0\ref\SingletonePatternDemo.dll

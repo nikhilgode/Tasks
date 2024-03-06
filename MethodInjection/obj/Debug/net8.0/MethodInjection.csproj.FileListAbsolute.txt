@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\bin\Debug\net8.0\MethodInjection.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\bin\Debug\net8.0\MethodInjection.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\bin\Debug\net8.0\MethodInjection.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\bin\Debug\net8.0\MethodInjection.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\bin\Debug\net8.0\MethodInjection.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\obj\Debug\net8.0\MethodInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\obj\Debug\net8.0\MethodInjection.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\obj\Debug\net8.0\MethodInjection.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\obj\Debug\net8.0\MethodInjection.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\obj\Debug\net8.0\MethodInjection.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\obj\Debug\net8.0\MethodInjection.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\obj\Debug\net8.0\refint\MethodInjection.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\obj\Debug\net8.0\MethodInjection.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\obj\Debug\net8.0\MethodInjection.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\MethodInjection\obj\Debug\net8.0\ref\MethodInjection.dll

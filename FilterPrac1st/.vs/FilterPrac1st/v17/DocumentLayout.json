@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\filterprac1st\\views\\bagdata\\viewdataimplementation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|solutionrelative:views\\bagdata\\viewdataimplementation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\filterprac1st\\views\\bagdata\\viewbagimplementation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|solutionrelative:views\\bagdata\\viewbagimplementation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\filterprac1st\\controllers\\bagdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|solutionrelative:controllers\\bagdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\filterprac1st\\controllers\\authnonauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|solutionrelative:controllers\\authnonauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\common\\trackexecutionfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|solutionrelative:common\\trackexecutionfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C66CFC9-E70A-4BE8-816A-5C9AC14435D3}|FilterPrac1st.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 99,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewDataImplementation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\Views\\BagData\\ViewDataImplementation.cshtml",
+              "RelativeDocumentMoniker": "Views\\BagData\\ViewDataImplementation.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\Views\\BagData\\ViewDataImplementation.cshtml",
+              "RelativeToolTip": "Views\\BagData\\ViewDataImplementation.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T11:10:58.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewBagImplementation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\Views\\BagData\\ViewBagImplementation.cshtml",
+              "RelativeDocumentMoniker": "Views\\BagData\\ViewBagImplementation.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\Views\\BagData\\ViewBagImplementation.cshtml",
+              "RelativeToolTip": "Views\\BagData\\ViewBagImplementation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T10:55:55.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BagDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\Controllers\\BagDataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BagDataController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\Controllers\\BagDataController.cs",
+              "RelativeToolTip": "Controllers\\BagDataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T10:49:37.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthNonauthController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\Controllers\\AuthNonauthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthNonauthController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\Controllers\\AuthNonauthController.cs",
+              "RelativeToolTip": "Controllers\\AuthNonauthController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:52:52.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:25:02.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrackExecutionFile.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\Common\\TrackExecutionFile.cs",
+              "RelativeDocumentMoniker": "Common\\TrackExecutionFile.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\Common\\TrackExecutionFile.cs",
+              "RelativeToolTip": "Common\\TrackExecutionFile.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:17:41.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\FilterPrac1st\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:16:14.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
