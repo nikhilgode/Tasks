@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\bin\Debug\net8.0\Sum100.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\bin\Debug\net8.0\Sum100.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\bin\Debug\net8.0\Sum100.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\bin\Debug\net8.0\Sum100.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\bin\Debug\net8.0\Sum100.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\obj\Debug\net8.0\Sum100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\obj\Debug\net8.0\Sum100.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\obj\Debug\net8.0\Sum100.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\obj\Debug\net8.0\Sum100.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\obj\Debug\net8.0\Sum100.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\obj\Debug\net8.0\Sum100.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\obj\Debug\net8.0\refint\Sum100.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\obj\Debug\net8.0\Sum100.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\obj\Debug\net8.0\Sum100.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Sum100\obj\Debug\net8.0\ref\Sum100.dll
