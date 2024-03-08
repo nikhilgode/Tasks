@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapp1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapp1\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapp1\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|solutionrelative:controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapp1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapp1\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|solutionrelative:models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapp1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapp1\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|solutionrelative:models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapp1\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|solutionrelative:models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapp1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapp1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86A7D27-E64E-48A6-9707-1E92F004CA03}|WebApp1.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\views\\movie\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -22,15 +54,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:56:13.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "Controllers\\ManageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:56:10.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:56:07.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:56:04.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:56:03.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:55:48.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Models\\ManageViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\ManageViewModels.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Models\\ManageViewModels.cs",
+              "RelativeToolTip": "Models\\ManageViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:55:46.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "Models\\IdentityModels.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:55:34.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -42,8 +174,12 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Random.cshtml",
               "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApp1\\Views\\Movie\\Random.cshtml",
               "RelativeDocumentMoniker": "Views\\Movie\\Random.cshtml",

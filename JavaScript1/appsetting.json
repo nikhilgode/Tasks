@@ -1,0 +1,7 @@
+{
+  "JwtSettings": {
+    "Issuer": "https://localhost:44350/",
+    "Audience": "https://localhost:44350/ ",
+    "Key": "jY4zHn8wTkS2eYbNfR7qA5vP3cU6gX1oZ9mD6iW2pE4lC7sK3"
+  }
+}

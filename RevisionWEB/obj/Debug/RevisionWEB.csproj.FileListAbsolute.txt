@@ -114,3 +114,5 @@ C:\Users\Nimap\Desktop\MyTasks\Tasks\RevisionWEB\bin\System.Text.Encodings.Web.x
 C:\Users\Nimap\Desktop\MyTasks\Tasks\RevisionWEB\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\Nimap\Desktop\MyTasks\Tasks\RevisionWEB\bin\System.Web.Http.xml
 C:\Users\Nimap\Desktop\MyTasks\Tasks\RevisionWEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Nimap\Desktop\MyTasks\Tasks\RevisionWEB\bin\RevisionWEB.dll.CodeAnalysisLog.xml
+C:\Users\Nimap\Desktop\MyTasks\Tasks\RevisionWEB\bin\RevisionWEB.dll.lastcodeanalysissucceeded

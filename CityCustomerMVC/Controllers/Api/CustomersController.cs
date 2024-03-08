@@ -8,7 +8,9 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using System.Web.Mvc;
+using System.Web.UI;
 using HttpDeleteAttribute = System.Web.Http.HttpDeleteAttribute;
+using HttpGetAttribute = System.Web.Http.HttpGetAttribute;
 using HttpPostAttribute = System.Web.Mvc.HttpPostAttribute;
 using HttpPutAttribute = System.Web.Http.HttpPutAttribute;
 
@@ -26,10 +28,12 @@ namespace CityCustomerMVC.Controllers.Api
           _context = new ApplicationDbContext();
         }
 
-        public IEnumerable <Customer> GetCustomers() 
-        {
-             return _context.customers.ToList();
-        }
+      //  [HttpGet]
+      ////  [OutputCache(Duration =50,Location = OutputCacheLocation.Server,VaryByParam ="*")]
+      //  public IEnumerable <Customer> GetCustomers() 
+      //  {
+      //       return _context.customers.ToList();
+      //  }
 
         public Customer GetCustomer(int id) 
         {
@@ -121,29 +125,44 @@ namespace CityCustomerMVC.Controllers.Api
                 }
             
         }
-                //-----------------------USING AUTOMAPPER--------------------------//
+        //-----------------------USING AUTOMAPPER--------------------------//
 
 
-                // public IEnumerable<CustomerDto> GetCustomers1()
-                //{
-                //    return _context.customers.ToList().Select(Mapper.Map<Customer, CustomerDto>);
-                //}
+        // public IEnumerable<CustomerDto> GetCustomers1()
+        //{
+        //    return _context.customers.ToList().Select(Mapper.Map<Customer, CustomerDto>);
+        //}
 
 
-                //public CustomerDto GetCustomer1(int id)
-                //{
-                //    var cus = _context.customers.SingleOrDefault(x => x.Id == id);
+        //public CustomerDto GetCustomer1(int id)
+        //{
+        //    var cus = _context.customers.SingleOrDefault(x => x.Id == id);
 
-                //    if (cus == null)
-                //    {
-                //        throw new HttpResponseException(HttpStatusCode.NotFound);
-                //    }
+        //    if (cus == null)
+        //    {
+        //        throw new HttpResponseException(HttpStatusCode.NotFound);
+        //    }
 
-                //    return Mapper.Map<Customer,CustomerDto>(cus) ;
-                //}
+        //    return Mapper.Map<Customer,CustomerDto>(cus) ;
+        //}
+
+        [System.Web.Http.HttpGet]
+        public CustomerDto GetCustomer()
+        {
+            //List<Customer> customers = _context.customers.ToList();
+            //List<CustomerDto> customerDtos = new List<CustomerDto>();
+
+            //  foreach (var customer in customers) 
+            //  {
+            //       customerDtos.Add( Mapper.Map<CustomerDto>(customer));
+            //  }
+
+            //  return customerDtos;
+
+            var u1 = Mapper.Map<CustomerDto>(_context.customers.ToList());
+            return u1;
+        }
 
 
-
-
-            }
+    }
 }

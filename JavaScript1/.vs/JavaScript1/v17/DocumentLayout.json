@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\javascript1\\controllers\\api\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|solutionrelative:controllers\\api\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\javascript1\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\javascript1\\app_start\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|solutionrelative:app_start\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\javascript1\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|solutionrelative:app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\javascript1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\javascript1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\javascript1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D61DE2-262B-4E26-B308-19FF9BBCAAC3}|JavaScript1.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1069,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:40:55.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:04:59.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "App_Start\\Startup.Auth.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "App_Start\\Startup.Auth.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwEcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T05:34:12.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\App_Start\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "App_Start\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\App_Start\\MappingProfile.cs",
+              "RelativeToolTip": "App_Start\\MappingProfile.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:51:31.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\Controllers\\api\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\api\\UserController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\Controllers\\api\\UserController.cs",
+              "RelativeToolTip": "Controllers\\api\\UserController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwBgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:50:56.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:50:19.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\JavaScript1\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:49:33.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 147,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

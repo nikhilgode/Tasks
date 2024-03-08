@@ -1,0 +1,7 @@
+{
+  "JwtSettings": {
+    "Issuer": "YourIssuer",
+    "Audience": "YourAudience",
+    "Key": "jY4zHn8wTkS2eYbNfR7qA5vP3cU6gX1oZ9mD6iW2pE4lC7sK3"
+  }
+}

@@ -54,6 +54,11 @@ C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Antlr3.Runtime.dll
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\AutoMapper.dll
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\EntityFramework.dll
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Glimpse.Ado.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Glimpse.AspNet.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Glimpse.Core.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Glimpse.EF6.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Glimpse.Mvc5.dll
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Microsoft.AspNet.Identity.Owin.dll
@@ -88,6 +93,8 @@ C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\System.Web.WebPages.dll
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\System.Web.WebPages.Razor.dll
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\WebGrease.dll
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\AutoMapper.xml
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\EntityFramework.xml
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\EntityFramework.SqlServer.xml
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Newtonsoft.Json.xml
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Newtonsoft.Json.Bson.pdb
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Newtonsoft.Json.Bson.xml
@@ -107,8 +114,6 @@ C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\System.Web.WebPages.xml
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\System.Web.WebPages.Razor.xml
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Antlr3.Runtime.pdb
-C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\EntityFramework.xml
-C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\EntityFramework.SqlServer.xml
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Microsoft.AspNet.Identity.Owin.xml
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
@@ -130,14 +135,9 @@ C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\obj\Debug\CityCustomerMVC.M
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\obj\Debug\CityCustomerMVC.Migrations.AddingDataAnnotations.resources
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\obj\Debug\CityCustomerMVC.Migrations.updateaftererror.resources
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\obj\Debug\CityCustomerMVC.Migrations.addingDatetime.resources
+C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\obj\Debug\CityCustomerMVC.Migrations.seedusers.resources
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\obj\Debug\CityCustomerMVC.csproj.GenerateResource.cache
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\obj\Debug\CityCustomerMVC.csproj.CoreCompileInputs.cache
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\obj\Debug\CityCust.E599FDE9.Up2Date
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\obj\Debug\CityCustomerMVC.dll
 C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\obj\Debug\CityCustomerMVC.pdb
-C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\obj\Debug\CityCustomerMVC.Migrations.seedusers.resources
-C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Glimpse.Ado.dll
-C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Glimpse.AspNet.dll
-C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Glimpse.Core.dll
-C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Glimpse.EF6.dll
-C:\Users\Nimap\Desktop\MyTasks\Tasks\CityCustomerMVC\bin\Glimpse.Mvc5.dll

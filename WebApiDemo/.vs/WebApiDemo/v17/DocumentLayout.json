@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApiDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84B62351-46DA-4A4A-B06B-71A343506FCC}|WebApiDemo.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapidemo\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B62351-46DA-4A4A-B06B-71A343506FCC}|WebApiDemo.csproj|solutionrelative:models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84B62351-46DA-4A4A-B06B-71A343506FCC}|WebApiDemo.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapidemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B62351-46DA-4A4A-B06B-71A343506FCC}|WebApiDemo.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84B62351-46DA-4A4A-B06B-71A343506FCC}|WebApiDemo.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapidemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{84B62351-46DA-4A4A-B06B-71A343506FCC}|WebApiDemo.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{84B62351-46DA-4A4A-B06B-71A343506FCC}|WebApiDemo.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapidemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B62351-46DA-4A4A-B06B-71A343506FCC}|WebApiDemo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B62351-46DA-4A4A-B06B-71A343506FCC}|WebApiDemo.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapidemo\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B62351-46DA-4A4A-B06B-71A343506FCC}|WebApiDemo.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B62351-46DA-4A4A-B06B-71A343506FCC}|WebApiDemo.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\webapidemo\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B62351-46DA-4A4A-B06B-71A343506FCC}|WebApiDemo.csproj|solutionrelative:models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +26,54 @@
       "DocumentGroups": [
         {
           "DockedHeight": 173,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApiDemo\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApiDemo\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-02T05:58:19.261Z",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApiDemo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApiDemo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:54:34.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApiDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApiDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:54:33.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApiDemo\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApiDemo\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:54:31.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IdentityModels.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\WebApiDemo\\Models\\IdentityModels.cs",
               "RelativeDocumentMoniker": "Models\\IdentityModels.cs",
@@ -45,16 +83,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T05:56:39.581Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedHeight": 72,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
