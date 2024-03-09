@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\obj\Debug\net8.0\Dictionary.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\bin\Debug\net8.0\Dictionary.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\bin\Debug\net8.0\Dictionary.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\obj\Debug\net8.0\Dictionary.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll

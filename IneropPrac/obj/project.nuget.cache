@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "krKqGM4ISgtc2cH3BpX4cfqy923Ji42iRWVl+79mu1pBiIqNhA/YtyXZoM2IA3068k5dTkFHgimX53d1P2Xl8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\IneropPrac\\IneropPrac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nimap\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
