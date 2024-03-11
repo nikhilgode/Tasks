@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\ExcelApp3\\",
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\HorizontalTriangle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F95F0E92-B3DA-4E63-A368-6795DE525F98}|ExcelApp3.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\excelapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F95F0E92-B3DA-4E63-A368-6795DE525F98}|ExcelApp3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AF54D6B-CDAF-4E88-826F-3F87ADEDE9AF}|HorizontalTriangle.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\horizontaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF54D6B-CDAF-4E88-826F-3F87ADEDE9AF}|HorizontalTriangle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,7 +23,7 @@
           ]
         },
         {
-          "DockedHeight": 272,
+          "DockedHeight": 337,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -34,19 +34,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\ExcelApp3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\HorizontalTriangle\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\ExcelApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\HorizontalTriangle\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBMAAAAlAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA7wAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T10:24:27.782Z",
+              "WhenOpened": "2024-03-11T11:34:58.592Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 80,
+          "DockedHeight": 15,
           "SelectedChildIndex": -1,
           "Children": [
             {

@@ -16,8 +16,8 @@ namespace ExcelApp3
 
             Excel.Application _app = new Excel.Application();
 
-            _app.Visible = false;
-            _app.DisplayAlerts = false;
+            _app.Visible = true;
+            _app.DisplayAlerts = true;
 
 
             Excel.Workbook wb1 =   _app.Workbooks.Open(path);

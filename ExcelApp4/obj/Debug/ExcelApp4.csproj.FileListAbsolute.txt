@@ -1,0 +1,8 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ExcelApp4\bin\Debug\ExcelApp4.exe.config
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ExcelApp4\bin\Debug\ExcelApp4.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ExcelApp4\bin\Debug\ExcelApp4.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ExcelApp4\obj\Debug\ExcelApp4.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ExcelApp4\obj\Debug\ExcelApp4.csproj.ResolveComReference.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ExcelApp4\obj\Debug\ExcelApp4.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ExcelApp4\obj\Debug\ExcelApp4.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\ExcelApp4\obj\Debug\ExcelApp4.pdb

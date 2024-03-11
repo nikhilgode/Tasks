@@ -1,0 +1,15 @@
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\bin\Debug\net8.0\HorizontalTriangle.exe
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\bin\Debug\net8.0\HorizontalTriangle.deps.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\bin\Debug\net8.0\HorizontalTriangle.runtimeconfig.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\bin\Debug\net8.0\HorizontalTriangle.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\bin\Debug\net8.0\HorizontalTriangle.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\obj\Debug\net8.0\HorizontalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\obj\Debug\net8.0\HorizontalTriangle.AssemblyInfoInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\obj\Debug\net8.0\HorizontalTriangle.AssemblyInfo.cs
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\obj\Debug\net8.0\HorizontalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\obj\Debug\net8.0\HorizontalTriangle.sourcelink.json
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\obj\Debug\net8.0\HorizontalTriangle.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\obj\Debug\net8.0\refint\HorizontalTriangle.dll
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\obj\Debug\net8.0\HorizontalTriangle.pdb
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\obj\Debug\net8.0\HorizontalTriangle.genruntimeconfig.cache
+C:\Users\Nimap\Desktop\MyTasks\Tasks\HorizontalTriangle\obj\Debug\net8.0\ref\HorizontalTriangle.dll

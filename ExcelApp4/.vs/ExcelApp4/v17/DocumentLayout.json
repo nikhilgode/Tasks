@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\ExcelApp3\\",
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\ExcelApp4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F95F0E92-B3DA-4E63-A368-6795DE525F98}|ExcelApp3.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\excelapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F95F0E92-B3DA-4E63-A368-6795DE525F98}|ExcelApp3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C2F6FB7-B00D-4C25-8405-8DBE63D6F5EB}|ExcelApp4.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\excelapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2F6FB7-B00D-4C25-8405-8DBE63D6F5EB}|ExcelApp4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,30 +23,26 @@
           ]
         },
         {
-          "DockedHeight": 272,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 274,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\ExcelApp3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\ExcelApp4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\ExcelApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\ExcelApp4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBMAAAAlAAAA",
+              "ViewState": "AQIAADQAAABANjMzM7MawEQAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T10:24:27.782Z",
+              "WhenOpened": "2024-03-11T03:39:04.002Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 80,
+          "DockedHeight": 78,
           "SelectedChildIndex": -1,
           "Children": [
             {
