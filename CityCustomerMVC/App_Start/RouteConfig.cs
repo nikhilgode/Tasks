@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Routing;
 
@@ -15,8 +16,9 @@ namespace CityCustomerMVC
 
             routes.MapRoute(
               name: "Default",
-               url: "api/{controller}/{action}", // Remove extra curly braces
-              defaults: new { controller = "Home", action = "Index" }
+                 url: "api/{controller}/{action}/{id}", // Updated URL pattern
+               
+                 defaults: new { controller = "Customers", action = "GetCustomers", id = RouteParameter.Optional }
                 );
 
         }

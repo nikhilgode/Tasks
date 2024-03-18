@@ -40,7 +40,7 @@ namespace ExcelApp3
 
               for(int i =1; i <=23 ; i++) 
               {
-                newr2.Cells[i,12] = r1.Cells[i,1].ToString();
+                newr2.Cells[i,12] = r1.Cells[i,1].ToString("dd/MM/yyyy");
               }
 
 

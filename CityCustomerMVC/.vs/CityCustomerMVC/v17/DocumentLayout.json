@@ -3,99 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\citycustomermvc\\controllers\\api\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:controllers\\api\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_CityCustomerMVC_20240213090605/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\models\\min18yearsforregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:models\\min18yearsforregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\app_start\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:app_start\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\citycustomermvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\citycustomermvc\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\views\\customer\\newcustomerform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:views\\customer\\newcustomerform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\views\\customer\\editcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:views\\customer\\editcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|c:\\users\\nimap\\desktop\\mytasks\\tasks\\citycustomermvc\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D8431A-17D2-441C-9C9F-54F00092F616}|CityCustomerMVC.csproj|solutionrelative:app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -104,314 +21,51 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 99,
-          "SelectedChildIndex": 3,
+          "DockedHeight": 123,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Customers [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_CityCustomerMVC_20240213090605/True/SqlTable/dbo.Customers.sql",
-              "ToolTip": "dbo.Customers [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-08T08:57:29.636Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Controllers\\Api\\CustomersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\Api\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Controllers\\Api\\CustomersController.cs",
-              "RelativeToolTip": "Controllers\\Api\\CustomersController.cs",
-              "ViewState": "AQIAAI8AAAAAAAAAAAAewKgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T12:50:30.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ManageViewModels.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Models\\ManageViewModels.cs",
-              "RelativeDocumentMoniker": "Models\\ManageViewModels.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Models\\ManageViewModels.cs",
-              "RelativeToolTip": "Models\\ManageViewModels.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:18:51.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:18:40.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Dto\\CustomerDto.cs",
-              "RelativeDocumentMoniker": "Dto\\CustomerDto.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Dto\\CustomerDto.cs",
-              "RelativeToolTip": "Dto\\CustomerDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T04:49:47.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Min18yearsForRegister.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Models\\Min18yearsForRegister.cs",
-              "RelativeDocumentMoniker": "Models\\Min18yearsForRegister.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Models\\Min18yearsForRegister.cs",
-              "RelativeToolTip": "Models\\Min18yearsForRegister.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:18:53.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IdentityModels.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Models\\IdentityModels.cs",
-              "RelativeDocumentMoniker": "Models\\IdentityModels.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Models\\IdentityModels.cs",
-              "RelativeToolTip": "Models\\IdentityModels.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:18:40.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Models\\City.cs",
-              "RelativeDocumentMoniker": "Models\\City.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Models\\City.cs",
-              "RelativeToolTip": "Models\\City.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:18:36.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AccountViewModels.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Models\\AccountViewModels.cs",
-              "RelativeDocumentMoniker": "Models\\AccountViewModels.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Models\\AccountViewModels.cs",
-              "RelativeToolTip": "Models\\AccountViewModels.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:18:30.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WebApiConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\App_Start\\WebApiConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\App_Start\\WebApiConfig.cs",
-              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T06:50:29.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\App_Start\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "App_Start\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\App_Start\\MappingProfile.cs",
-              "RelativeToolTip": "App_Start\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T04:53:03.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-08T04:42:50.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T04:35:52.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Global.asax.cs",
-              "RelativeDocumentMoniker": "Global.asax.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Global.asax.cs",
-              "RelativeToolTip": "Global.asax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T06:54:39.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IdentityConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\App_Start\\IdentityConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\IdentityConfig.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\App_Start\\IdentityConfig.cs",
-              "RelativeToolTip": "App_Start\\IdentityConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T04:43:17.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T04:43:21.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CityController.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Controllers\\CityController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Controllers\\CityController.cs",
-              "RelativeToolTip": "Controllers\\CityController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T04:35:29.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAApwJUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T04:35:23.485Z"
+              "WhenOpened": "2024-03-18T05:10:48.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "NewCustomerForm.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Views\\Customer\\NewCustomerForm.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customer\\NewCustomerForm.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Views\\Customer\\NewCustomerForm.cshtml",
-              "RelativeToolTip": "Views\\Customer\\NewCustomerForm.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAkwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-08T04:35:02.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAAwBAAAAAHAAAA",
+              "DocumentIndex": 1,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "App_Start\\IdentityConfig.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAkwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T12:48:47.554Z"
+              "WhenOpened": "2024-03-18T04:52:39.319Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "App_Start\\Startup.Auth.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "App_Start\\Startup.Auth.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T04:36:30.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-08T04:36:44.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Views\\Customer\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Views\\Customer\\Index.cshtml",
-              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-08T04:35:00.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "EditCustomer.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Views\\Customer\\EditCustomer.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customer\\EditCustomer.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\MyTasks\\Tasks\\CityCustomerMVC\\Views\\Customer\\EditCustomer.cshtml",
-              "RelativeToolTip": "Views\\Customer\\EditCustomer.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-08T04:31:54.108Z"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 29,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "WhenOpened": "2024-03-18T04:52:25.703Z",
+              "EditorCaption": ""
             }
           ]
         }

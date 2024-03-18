@@ -28,12 +28,12 @@ namespace CityCustomerMVC.Controllers.Api
           _context = new ApplicationDbContext();
         }
 
-      //  [HttpGet]
-      ////  [OutputCache(Duration =50,Location = OutputCacheLocation.Server,VaryByParam ="*")]
-      //  public IEnumerable <Customer> GetCustomers() 
-      //  {
-      //       return _context.customers.ToList();
-      //  }
+        [HttpGet]
+        //  [OutputCache(Duration =50,Location = OutputCacheLocation.Server,VaryByParam ="*")]
+        public IEnumerable<Customer> GetCustomers()
+        {
+            return _context.customers.ToList();
+        }
 
         public Customer GetCustomer(int id) 
         {
@@ -146,22 +146,22 @@ namespace CityCustomerMVC.Controllers.Api
         //    return Mapper.Map<Customer,CustomerDto>(cus) ;
         //}
 
-        [System.Web.Http.HttpGet]
-        public CustomerDto GetCustomer()
-        {
-            //List<Customer> customers = _context.customers.ToList();
-            //List<CustomerDto> customerDtos = new List<CustomerDto>();
+        //[System.Web.Http.HttpGet]
+        //public CustomerDto GetCustomer()
+        //{
+        //    //List<Customer> customers = _context.customers.ToList();
+        //    //List<CustomerDto> customerDtos = new List<CustomerDto>();
 
-            //  foreach (var customer in customers) 
-            //  {
-            //       customerDtos.Add( Mapper.Map<CustomerDto>(customer));
-            //  }
+        //    //  foreach (var customer in customers) 
+        //    //  {
+        //    //       customerDtos.Add( Mapper.Map<CustomerDto>(customer));
+        //    //  }
 
-            //  return customerDtos;
+        //    //  return customerDtos;
 
-            var u1 = Mapper.Map<CustomerDto>(_context.customers.ToList());
-            return u1;
-        }
+        //    var u1 = Mapper.Map<CustomerDto>(_context.customers.ToList());
+        //    return u1;
+        //}
 
 
     }

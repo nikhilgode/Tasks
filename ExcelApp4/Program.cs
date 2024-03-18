@@ -104,6 +104,14 @@ namespace ExcelApp4
                 range.Value = "Hello";
             }
 
+            Excel.Worksheet ws2 = wb1.Worksheets[2];
+
+            Excel.Range secondSheet = ws2.Range["A1:A15"];
+
+            for(int k=1;k<=15;k++) 
+            {
+                secondSheet.Cells[k].Value = operation.Cells[k].value;
+            }
 
             wb1.Close();
             _app.Quit();

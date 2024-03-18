@@ -1,0 +1,31 @@
+﻿@model CityCustomerMVC.ViewModels.CityList
+
+@{
+    ViewBag.Title = "EditCity";
+}
+
+@using (Html.BeginForm("SaveEditedCity", "City"))
+{
+
+    <div class="form-group">
+
+
+        @Html.LabelFor(m => m.cities)
+
+        @Html.DropDownListFor(m => m.cities, new SelectList(Model.cities, "Id", "Name"), "Select City", new { @class = "form-control" })
+
+
+
+
+
+
+
+       
+        <button type="submit" class="btn btn-lg btn-primary">ADD NEW CITY</button>
+
+    </div>
+
+
+        }
+
+
